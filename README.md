@@ -6,19 +6,19 @@ I spent 2+ years at Manhattan Associates building supply chain systems (WMS), wh
 
 
 ## Tech Stack
-- **Languages**: Python, SQL, Java, JavaScript, TypeScript, C
+- **Languages**: Python, SQL, TypeScript
 - **ML & Data**: scikit-learn, Pandas, NumPy, PyTorch, Matplotlib
 - **AI & LLM**: LangChain, LLM APIs, prompt engineering, vector databases
-- **Frameworks**: FastAPI, Django, Angular, Spring Boot
-- **Tools**: Git, Docker, Jupyter, VS Code, Azure
+- **Frameworks**: FastAPI, Django, Angular
+- **Tools**: Git, Jupyter, Claude Code
 - **Domain**: Warehouse Management Systems (WMS), supply chain, logistics
 
-## Currently learning
-- Advanced ML pipelines and LLM orchestration
-- Azure ML and cloud-scale AI applications
-- Supply chain optimization & forecasting
+## Currently exploring
+- LLM applications and prompt engineering
+- N8N workflow automation
+- Supply chain data analysis
+- Building with Claude and Python
 
 ## Fun facts
-- Badminton player (and always up for a game)
 - Space science nerd — fascinated by computational astrophysics
 
